@@ -1,0 +1,16 @@
+#flex-container{
+    display: flex;
+    text-align:unset;
+}
+#side{
+    flex: 10%;
+    background-color: rgb(202, 160, 221);
+    color: black;
+    text-align:center;
+}
+#main{
+    flex: 60%;
+    background-color: pink;
+    color: black;
+    text-align: center;
+}
